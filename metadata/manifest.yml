@@ -1,6 +1,6 @@
-Name: jetty8_t2
-Cartridge-Short-Name: JETTY8_t2
-Display-Name: JETTY8_t2
+Name: jetty8-t2
+Cartridge-Short-Name: JETTY8-t2
+Display-Name: JETTY8-t2
 Description: "Jelastic Jetty8"
 Version: '8.14'
 License: 'Apache licence'
